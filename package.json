@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ETorresM2/local-socketio-backend#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.20.11",
     "socket.io": "^2.3.0",
     "sqlite3": "^4.1.1"
